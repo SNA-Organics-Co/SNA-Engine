@@ -24,7 +24,7 @@
 
 <br>
 
-<kbd>W</kbd> / </kbd>A</kbd> / </kbd>S</kbd> / </kbd>D</kbd>
+<kbd>W</kbd> / <kbd>A</kbd> / <kbd>S</kbd> / <kbd>D</kbd>
 
 <br>
 
@@ -32,7 +32,7 @@
 
 <br>
 
-<kbd>&#8592;</kbd> / <kbd>&#8593;</kbd> / <kbd>&#8594;</kbd> / <kbd>&#8595;</kbd>
+<kbd>&#8592;</kbd> / <kbd>&#8593;</kbd> / <kbd>&#8595;</kbd> / <kbd>&#8594;</kbd>
 
 <br>
 
