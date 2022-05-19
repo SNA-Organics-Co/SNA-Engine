@@ -10,12 +10,6 @@
 
 <br>
 
-## If on main.py
-
-<kbd>Ctrl</kbd> + <kbd>F5</kbd>
-
-<br>
-
 ## General Controls:
 
 <br>
