@@ -10,10 +10,6 @@
 
 <br>
 
-## General Controls:
-
-<br>
-
 ### Move:
 
 <br>
